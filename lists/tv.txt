@@ -1,0 +1,18 @@
+# Title: Joshua-Noakes1/blocklist
+#
+# Based on the format of StevenBlack/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Blocks the small amount of known ad domains from ITV, Channel 4 and Channel 5 in the UK
+#
+# Date: 24 May 2023
+#
+#===============================================================
+
+# domains (fr Channel 4 has so many ad domains)
+0.0.0.0 tom.itv.com
+0.0.0.0 c5ads.ott.skymedia.co.UK
+0.0.0.0 c4ads.2cnt.net
+0.0.0.0 cdn.http.anno.channel4.com
+0.0.0.0 monitor.channel4.com
+0.0.0.0 cdn.ss.anno.channel4.com
+0.0.0.0 webstats.channel4.com
+0.0.0.0 ic.channel4.com

@@ -1,0 +1,16 @@
+# Title: Joshua-Noakes1/blocklist
+#
+# Based on the format of StevenBlack/hosts https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Blocks updates on LG tvs - https://gist.github.com/throwaway96/e811b0f7cc2a705a5a476a8dfa45e09f#why-do-i-still-see-update-notifications
+#
+# Date: 10th July 2023
+#
+#===============================================================
+
+0.0.0.0 snu.lge.com
+0.0.0.0 su.lge.com
+0.0.0.0 su-ssl.lge.com
+0.0.0.0 snu-ssl.lge.com
+0.0.0.0 snu-dev.lge.com
+0.0.0.0 su-dev.lge.com
+0.0.0.0 nsu.lge.com
